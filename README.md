@@ -1,2 +1,2 @@
 # Day-One-Challenge
-It's my first day to finish the first project about 100 Days of Code: The Complete Python Pro Bootcamp given by teacher Angela from Udemy website.
+"Today, I finished the first project in the '100 Days of Code: The Complete Python Pro Bootcamp' course, taught by Angela on Udemy."
